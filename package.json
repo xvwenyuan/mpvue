@@ -25,7 +25,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mpvue": "^2.0.0",
     "node-sass": "^4.13.1",
     "sass": "^1.26.2",
